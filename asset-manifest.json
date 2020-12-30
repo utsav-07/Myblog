@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Myblog/static/css/main.a2e0b396.chunk.css",
+    "main.js": "/Myblog/static/js/main.b545f649.chunk.js",
+    "main.js.map": "/Myblog/static/js/main.b545f649.chunk.js.map",
+    "runtime-main.js": "/Myblog/static/js/runtime-main.a4c4e3a9.js",
+    "runtime-main.js.map": "/Myblog/static/js/runtime-main.a4c4e3a9.js.map",
+    "static/js/2.402eeea4.chunk.js": "/Myblog/static/js/2.402eeea4.chunk.js",
+    "static/js/2.402eeea4.chunk.js.map": "/Myblog/static/js/2.402eeea4.chunk.js.map",
+    "static/js/3.6cfc1272.chunk.js": "/Myblog/static/js/3.6cfc1272.chunk.js",
+    "static/js/3.6cfc1272.chunk.js.map": "/Myblog/static/js/3.6cfc1272.chunk.js.map",
+    "index.html": "/Myblog/index.html",
+    "static/css/main.a2e0b396.chunk.css.map": "/Myblog/static/css/main.a2e0b396.chunk.css.map",
+    "static/js/2.402eeea4.chunk.js.LICENSE.txt": "/Myblog/static/js/2.402eeea4.chunk.js.LICENSE.txt",
+    "static/media/c++.ad23a776.png": "/Myblog/static/media/c++.ad23a776.png",
+    "static/media/utsav.b326d18d.png": "/Myblog/static/media/utsav.b326d18d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c4e3a9.js",
+    "static/js/2.402eeea4.chunk.js",
+    "static/css/main.a2e0b396.chunk.css",
+    "static/js/main.b545f649.chunk.js"
+  ]
+}
