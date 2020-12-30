@@ -1,0 +1,28 @@
+
+a.social{
+margin: 0 0.4rem;
+transition: transform 300ms;
+display: inline-block;
+
+font-size: 20px;
+}
+
+a.social:hover{
+    transform: translateY(-5px);
+}
+
+.facebook{
+    color: #3b5998;
+}
+
+.instagram{
+    color: hotpink;
+}
+
+.gmail{
+    color: #4285F4;
+}
+
+.github{
+    color: #4078c0;
+}
